@@ -1,8 +1,9 @@
 {
   "name": "generator-wl-vue",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "license": "MIT",
+  "homepage": "https://github.com/www-wanglong/generator-wl-vue",
   "dependencies": {
     "yeoman-generator": "^5.3.0"
   }
